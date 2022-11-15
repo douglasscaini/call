@@ -8,6 +8,13 @@ export default {
         src: "https://github.com/douglasscaini.png",
         alt: "Douglas Scaini",
     },
+    argTypes: {
+        src: {
+            control: {
+                type: "text",
+            },
+        },
+    },
 } as Meta<AvatarProps>;
 
 export const Primary: StoryObj<AvatarProps> = {};
