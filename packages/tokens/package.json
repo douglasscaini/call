@@ -1,5 +1,5 @@
 {
-    "name": "@ignite-ui/tokens",
+    "name": "@ignite-ui-call/tokens",
     "version": "1.0.0",
     "description": "",
     "main": "./dist/index.js",
@@ -13,7 +13,7 @@
     "author": "",
     "license": "MIT",
     "devDependencies": {
-        "@ignite-ui/ts-config": "*",
+        "@ignite-ui-call/ts-config": "*",
         "tsup": "^6.3.0",
         "typescript": "^4.8.4"
     }
