@@ -1,0 +1,2 @@
+import{A as t}from"./index.fa778b0e.js";import"./index.90a7797d.js";import"./iframe.869e82cf.js";import"./index.52876c6c.js";import"./jsx-runtime.c97a38f0.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/douglasscaini.png",alt:"Douglas Scaini"},argTypes:{src:{control:{type:"text"}}}},p={},l={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,l as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.74f62bb9.js.map
